@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2589976444">
+    <data-source source="LOCAL" name="Rails det: development" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="327583cb-baa0-4989-a8b1-ff1893aa3c3a">
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:my_database_development</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfcedfcbdfc4dfcddfcfdfd8dfc5dfdfdfd9dfd8dfc5dfc9dfc1</user-password>
+      <libraries>
+        <library>
+          <url>file://</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="Rails det: test" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="bd35fe37-5064-4a6a-bc6e-fcc04efd1fb8">
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:my_database_test</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfcedfcbdfc4dfcddfcfdfd8dfc5dfdfdfd9dfd8dfc5dfc9dfc1</user-password>
+      <libraries>
+        <library>
+          <url>file://</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="Rails det: production" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="4b3ebe3a-49b5-4f46-906e-0ba65e09e056">
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:my_database_production</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfcedfcbdfc4dfcddfcfdfd8dfc5dfdfdfd9dfd8dfc5dfc9dfc1</user-password>
+      <libraries>
+        <library>
+          <url>file://</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+
